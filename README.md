@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Diego-Richter
+- 👋 Hi, I’m @Diego Richter
 - 👀 I’m interested in numbers.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on códigos
-- 📫 How to reach me (47) 991664957
+- 📫 How to reach me (47) 991664967
 - 😄 Pronouns: Dih
 - ⚡ Fun fact: ...
 
